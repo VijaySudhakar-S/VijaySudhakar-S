@@ -12,7 +12,8 @@
 
 # 📊 LeetCode Status:
 
-![LeetCode Stats](https://leetcode.card.workers.dev/?username=vijay-sudhakar)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/vijay-sudhakar?theme=dark&font=Raleway&ext=heatmap)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VijaySudhakar-S&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
